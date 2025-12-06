@@ -2,7 +2,7 @@
 
 # 📘 About Me
 
-I'm a computer science student passionate about working and learning about backend development, software development and data analysis. I enjoy solving problems and learning about new technologies. 
+I'm, a computer science student passionate about working and learning about software development and backend development. I enjoy solving problems and learning about new technologies. 
 
 
 # 💻 Tech Stack
@@ -15,6 +15,9 @@ I'm a computer science student passionate about working and learning about backe
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # 📫 Contact
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/)
