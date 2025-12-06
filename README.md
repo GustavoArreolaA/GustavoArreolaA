@@ -1,4 +1,7 @@
 ## Hi I'm Gustavo 👋
+
+# 📘 About Me
+
 I'm a computer science student passionate about working and learning about backend development, software development and data analysis. I enjoy solving problems and learning about new technologies. 
 
 
