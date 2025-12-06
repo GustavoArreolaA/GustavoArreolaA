@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm Gustavo 👋
+I'm a computer science student passionate about working and learning about backend development, software development and data analysis. I enjoy solving problems and learning about new technologies 
 
 <!--
 **GustavoArreolaA/GustavoArreolaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
