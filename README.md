@@ -18,6 +18,6 @@ I'm a computer science student passionate about working and learning about backe
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arreolaalmaguergustavo@gmail.com)
 
 # 🌱 I’m currently learning
- HTML, CSS and JavaScript
+- HTML, CSS and JavaScript
 
 
