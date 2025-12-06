@@ -5,7 +5,7 @@
 I'm, a computer science student passionate about working and learning about software development and backend development. I enjoy solving problems and learning about new technologies. 
 
 # 📫 Contact
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-arreola-almaguer)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-arreola-almaguer)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arreolaalmaguergustavo@gmail.com)
   
 # 💻 Tech Stack
