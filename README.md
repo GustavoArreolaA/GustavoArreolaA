@@ -23,6 +23,6 @@ I'm, a computer science student passionate about working and learning about soft
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # 🌱 I’m currently learning
-- HTML, CSS and JavaScript
+- HTML and CSS 
 
 
